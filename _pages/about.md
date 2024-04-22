@@ -28,4 +28,4 @@ Zhifeng Hu\
 Longbin Building\
 Shanghai Jiao Tong University\
 Shanghai, China, 200240\
-Email: [zhifeng.hu@sjtu.edu.cn](zhifeng.hu@sjtu.edu.cn)
+Email: [zhifeng.hu\@sjtu.edu.cn](mailto:zhifeng.hu@sjtu.edu.cn)
