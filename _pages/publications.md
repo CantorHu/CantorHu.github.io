@@ -16,4 +16,4 @@ author_profile: true
 - **Z.-F. Hu**, and C. Han, "Image and Index Fused Sequence-to-sequence Algorithm for Vision-aided Millimeter-wave Beam Tracking", in Proc. of **ACM Workshop on Millimeter-Wave and Terahertz Networks and Sensing Systems, in conjunction with ACM MobiCom**, New Orleans, US, October 2021.
 
 ## Books
-- C. Han, **Z.-F. Hu**, et al, "Terahertz Wireless Communications", Fundamentals of 6G Communications and Networking, submitted to **Wiley**. 
+- C. Han, **Z.-F. Hu**, et al, "Terahertz Wireless Communications", submitted to **Wiley**. 
