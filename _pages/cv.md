@@ -19,5 +19,5 @@ Selected Honors & Rewards
 ======
 - Best Student Presentation Recognition Award, IEEE IESES, 2023
 - Excellence Award, Huawei Changxiangweilai Smart Car Innovation and Creativity Competition, 2021
-- First-year PhD Scholarship, Shanghai Jiao Tong University, 2020
+- First-year Ph.D. Scholarship, Shanghai Jiao Tong University, 2020
 - Excellent Graduate, Shanghai Jiao Tong University, 2020
