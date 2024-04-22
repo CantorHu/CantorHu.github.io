@@ -10,7 +10,7 @@ redirect_from:
 About Me
 -----
 
-I'm a Ph.D. candidate majoring in information and communication engineering, from [University of Michigan-Shanghai Jiao Tong University (UM-SJTU) Joint Institute](https://www.ji.sjtu.edu.cn/) of [Shanghai Jiao Tong University](https://www.sjtu.edu.cn/), Shanghai, China.\
+I am a Ph.D. candidate majoring in information and communication engineering, from [University of Michigan-Shanghai Jiao Tong University (UM-SJTU) Joint Institute](https://www.ji.sjtu.edu.cn/) of [Shanghai Jiao Tong University](https://www.sjtu.edu.cn/), Shanghai, China.\
 I am very fortunate to be advised by [Prof. Chong Han](https://sites.ji.sjtu.edu.cn/chonghan/) in the Terahertz Wireless Communications (TWC) Laboratory.
 
 I received my B.S. degree in electrical and computer engineering from [Shanghai Jiao Tong University](https://www.sjtu.edu.cn/), China, in 2020.
