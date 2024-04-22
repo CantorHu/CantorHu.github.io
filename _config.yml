@@ -21,8 +21,8 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
-  name             : "Zhifeng Hu"
+  avatar           : "photo.jpg"
+  name             : "Zhifeng Hu" 
   pronouns         : # example: "she/her"  
   bio              : "Ph.D. candidate in UM-SJTU Joint Institute of SJTU"
   location         : "Shanghai, China"
