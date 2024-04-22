@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Information and Communication Engineering, Shanghai Jiao Tong University, 2020-2025 (expected)
+* Ph.D. in Information and Communication Engineering, Shanghai Jiao Tong University, 2020-2025 (expected)
 * B.S. in Electrical and Computer Engineering, Shanghai Jiao Tong University, 2016-2020
 
 
