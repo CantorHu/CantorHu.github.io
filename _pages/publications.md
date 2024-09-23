@@ -17,6 +17,10 @@ Conference Publications
 - **Z.-F. Hu**, R.-K. Huang, and C. Han, "Multi-agent Deep Reinforcement Learning for Charging Coordination of Electric Vehicles", in Proc. of **IEEE International Conference on Industrial Electronics for Sustainable Energy Systems (IESES)**, Shanghai, China, Jul. 2023. [_**<font color='red'>Best Student Presentation Recognition Award</font>**_]
 - **Z.-F. Hu**, and C. Han, "Image and Index Fused Sequence-to-sequence Algorithm for Vision-aided Millimeter-wave Beam Tracking", in Proc. of **ACM Workshop on Millimeter-Wave and Terahertz Networks and Sensing Systems, in conjunction with ACM MobiCom**, New Orleans, US, Oct. 2021.
 
+Preprint
+-----
+- **Z.-F. Hu**, C. Han, W. H. Gerstacker, and I. F. Akyildiz, "Tera-SpaceCom: GNN-based Deep Reinforcement Learning for Joint Resource Allocation and Task Offloading in TeraHertz Band Space Networks", arXiv preprint: 2409.07911, Sept. 2024. [[*paper*](https://arxiv.org/abs/2409.07911)]
+
 Books
 -----
 - C. Han, **Z.-F. Hu**, et al, "Terahertz Wireless Communications", submitted to **Wiley**. 
