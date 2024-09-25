@@ -19,7 +19,7 @@ Research Interest
 -----
 My primary research interests are investigating cutting-edge frontiers to realize the blueprint of the sixth generation (6G) wireless systems, spanning topics including:
  - Resource allocation for wireless communication networks
- - Millimeter-wave (MmWave) and Terahertz (THz) communications
+ - Millimeter-wave (mmWave) and Terahertz (THz) communications
  - Machine learning and deep learning
 
 Contact
