@@ -17,6 +17,7 @@ Education
 
 Selected Honors & Rewards
 -----
+- Graduate National Scholarship (国家奖学金)， 2024
 - Best Student Presentation Recognition Award, IEEE IESES, 2023
 - Excellence Award, Huawei Changxiangweilai Smart Car Innovation and Creativity Competition, 2021
 - First-year Ph.D. Scholarship, Shanghai Jiao Tong University, 2020
