@@ -19,7 +19,7 @@ Conference Publications
 
 Preprint
 -----
-- **Z.-F. Hu**, C. Han, W. H. Gerstacker, and I. F. Akyildiz, "Tera-SpaceCom: GNN-based Deep Reinforcement Learning for Joint Resource Allocation and Task Offloading in TeraHertz Band Space Networks", arXiv preprint: 2409.07911, Sept. 2024. [[*paper*](https://arxiv.org/abs/2409.07911)]
+- **Z.-F. Hu**, C. Han, W. H. Gerstacker, and I. F. Akyildiz, "Tera-SpaceCom: GNN-based Deep Reinforcement Learning for Joint Resource Allocation and Task Offloading in TeraHertz Band Space Networks", arXiv preprint: 2409.07911, Sep. 2024. [[*paper*](https://arxiv.org/abs/2409.07911)]
 
 Books
 -----
