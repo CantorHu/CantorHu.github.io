@@ -18,7 +18,7 @@ Education
 Selected Honors & Rewards
 -----
 - Excellent Graduate (Ph.D.), Shanghai Jiao Tong University, 2025
-- **博士研究生国家奖学金**, 中华人民共和国教育部, 2024
+- Graduate National Scholarship (Ph.D.) [**博士研究生国家奖学金**], Ministry of Education of China, 2024
 - Yu Liming Scholarship, Shanghai Jiao Tong University UMJI, 2024
 - Best Student Presentation Recognition Award, IEEE IESES, 2023
 - Excellence Award, Huawei Changxiangweilai Smart Car Innovation and Creativity Competition, 2021
